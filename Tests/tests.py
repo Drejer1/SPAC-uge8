@@ -1,4 +1,4 @@
 import pytest 
 
-def sampletest():
+def test_sampletest():
     assert 4 == 2+2
