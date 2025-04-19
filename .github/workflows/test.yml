@@ -28,7 +28,7 @@ jobs:
             pytest Tests/tests.py
                          
             
-        # upload test results
+        # upload test resultss
         - name: Upload test results
           uses: actions/upload-artifact@v3
           with:
