@@ -3,7 +3,7 @@
 
 A project made as part of [Specialisternes](https://dk.specialisterne.com/) academy course during week 8.
 
-This project is designed build a docker container and CI/CD pipeline based on assignment [insertlink].
+This project is simply just to learn docker and github actions.
 
 
 
