@@ -3,7 +3,7 @@
 
 A project made as part of [Specialisternes](https://dk.specialisterne.com/) academy course during week 8.
 
-This project is designed build a docker container and CI/CD pipeline based on assignment [insertlink].
+This project is simply just to learn docker and github actions.
 
 
 
@@ -11,14 +11,9 @@ This project is designed build a docker container and CI/CD pipeline based on as
 ## Features
 
 
-- Connect to a MySQL database
-- Fetch cereal product data
-- Fetch cereal product data according to filters
-- Fetch image related to cereal ID
-- Post new cereal products to the database
-- Edit existing cereal products' information.
-- Delete cereal products from the database.
-
+- Create docker container
+- Have CI/CD setup
+- 
 ## Installation
 
 1. Clone the repository:
