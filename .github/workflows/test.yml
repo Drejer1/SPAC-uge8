@@ -21,7 +21,7 @@ jobs:
         - name: Install dependencies
           run: |
             python -m pip install --upgrade pip
-            pip install -r requirements.txt
+            pip install -r PythonCerealAPI/requirements.txt
         # run tests
         - name: Run tests       
           run: |
@@ -30,7 +30,7 @@ jobs:
             
         # upload test resultss
         - name: Upload test results
-          uses: actions/upload-artifact@v3
+          uses: actions/upload-artifact@v4
           with:
             name: test-results
             path: Tests/test-results.xml
