@@ -28,7 +28,7 @@ jobs:
             pytest Tests/tests.py --junitxml=Tests/test-results.xml --disable-warnings
                          
             
-        # upload test results
+        # upload test resultss
         - name: Upload test results
           uses: actions/upload-artifact@v2
           with:
