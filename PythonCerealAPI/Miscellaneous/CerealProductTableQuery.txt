@@ -1,0 +1,22 @@
+CREATE TABLE `cereal_product` (
+  `ID` int NOT NULL AUTO_INCREMENT,
+  `ProductName` varchar(255) NOT NULL,
+  `Mfr` char(1) NOT NULL,
+  `TypeVarmORCold` char(1) NOT NULL,
+  `calories` int NOT NULL,
+  `protein` int NOT NULL,
+  `fat` int NOT NULL,
+  `sodium` int NOT NULL,
+  `fiber` float NOT NULL,
+  `carbo` float NOT NULL,
+  `sugars` int NOT NULL,
+  `potass` int NOT NULL,
+  `vitamins` int NOT NULL,
+  `shelf` int NOT NULL,
+  `weight` float NOT NULL,
+  `cups` float NOT NULL,
+  `rating` float NOT NULL,
+  `pathToPicture` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  UNIQUE KEY `ProductName_UNIQUE` (`ProductName`)
+) 

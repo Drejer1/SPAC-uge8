@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\PythonCerealAPI.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|solutionrelative:PythonCerealAPI.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\ServerConnection.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|solutionrelative:ServerConnection.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\FillDatabaseWithPathsToImages.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|solutionrelative:FillDatabaseWithPathsToImages.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\ParseAndInsert.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|solutionrelative:ParseAndInsert.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\Models\\CerealProduct.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B38DEE95-1441-4C0A-A882-5CA7A9971507}|PythonCerealAPI.pyproj|solutionrelative:Models\\CerealProduct.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FillDatabaseWithPathsToImages.py",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\FillDatabaseWithPathsToImages.py",
+              "RelativeDocumentMoniker": "FillDatabaseWithPathsToImages.py",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\FillDatabaseWithPathsToImages.py",
+              "RelativeToolTip": "FillDatabaseWithPathsToImages.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-14T08:54:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerConnection.py",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\ServerConnection.py",
+              "RelativeDocumentMoniker": "ServerConnection.py",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\ServerConnection.py",
+              "RelativeToolTip": "ServerConnection.py",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T11:55:37.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParseAndInsert.py",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\ParseAndInsert.py",
+              "RelativeDocumentMoniker": "ParseAndInsert.py",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\ParseAndInsert.py",
+              "RelativeToolTip": "ParseAndInsert.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T09:36:01.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CerealProduct.py",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\Models\\CerealProduct.py",
+              "RelativeDocumentMoniker": "Models\\CerealProduct.py",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\Models\\CerealProduct.py",
+              "RelativeToolTip": "Models\\CerealProduct.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T09:19:52.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonCerealAPI.py",
+              "DocumentMoniker": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\PythonCerealAPI.py",
+              "RelativeDocumentMoniker": "PythonCerealAPI.py",
+              "ToolTip": "C:\\Users\\A-SPAC10\\Documents\\GitHub\\SPAC-uge3\\PythonCerealAPI\\PythonCerealAPI.py",
+              "RelativeToolTip": "PythonCerealAPI.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-12T09:09:30.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
